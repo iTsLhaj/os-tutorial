@@ -1,6 +1,9 @@
 os-tutorial
 ===========
 
+#### HOW ???
+![idksomerandomimage](https://i.ytimg.com/vi/GFLl9jt0mC0/mqdefault.jpg)
+
 How to create an OS from scratch!
 
 I have always wanted to learn how to make an OS from scratch. In college I was taught
